@@ -1,4 +1,4 @@
-venv/
+.venv/
 __pycache__/
 *.pyc
 .DS_Store
@@ -8,5 +8,5 @@ __pycache__/
 *.parquet
 *.zip
 *.gz
-*.pth
 *.h5
+*.pth
